@@ -1,7 +1,8 @@
 body {text-align: center;
 background-color: lightskyblue;
 color: rgb(0, 0, 0);
-column-count: 2;}
+column-count: 2;
+font-family: Times New Roman;}
 
 img.displayed {display: block;
 margin-left: auto;
