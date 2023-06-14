@@ -9,6 +9,12 @@ margin-left: auto;
 margin-right: auto;}
 
 #title {font-family: Berlin Sans FB !important;
-font-size: 72pt !!important;}
+font-size: 72pt !important;}
 
 #mpbody {column-count: 1 !important;}
+
+.references {font-family: Algerian;
+font-size: 150%;}
+
+.ptitle {font-family: Bradley Hand ITC;
+font-size: 36pt;}
